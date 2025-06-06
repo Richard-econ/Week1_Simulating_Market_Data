@@ -53,3 +53,5 @@ Extend simulation to include Cournot competition
 
 🔗 License
 MIT License
+
+See [resources/resources.md](resources/resources.md) for a list of learning materials used in this project.
