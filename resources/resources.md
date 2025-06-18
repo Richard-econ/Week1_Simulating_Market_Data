@@ -51,3 +51,80 @@ This document summarizes key learning resources used to support Week 1 of the pr
 - All links included are publicly available and cited in accordance with fair use and educational reference standards.
 - Books listed are referenced by title and not reproduced.
 - For full legal and academic citation, consider using BibTeX or APA format in your report or paper. ## 🔗 Resources
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+## ✅ What’s Completed
+
+- ✔️ Finished **Kaggle Python Course**: Covered basic syntax, loops, conditionals, functions, Pandas, and plotting.
+- ❌ Skipped *Python for Data Analysis* book due to lack of engagement and project material.
+
+---
+
+## 🧠 New Practical Learning Plan (Post-Kaggle Python)
+
+> Now that Python basics are covered, the goal is to **practice data cleaning, simulation, and visualization through actual projects** — with IO modeling and Kaggle EDA as dual tracks.
+
+---
+
+## 🐍 Python Resources Used
+
+1. **Python Official Tutorial**
+   - URL: https://docs.python.org/3/tutorial/
+   - Scope: Syntax, functions, lists/dictionaries, file operations
+   - Use: Quick lookup + review
+
+2. **Kaggle: Python Course**
+   - URL: https://www.kaggle.com/learn/python
+   - Use: Finished ✔️
+   - Next: Transition to Kaggle Datasets for project-based practice
+
+---
+
+## 📊 Practical Datasets for Project Use
+
+| Dataset | Why It's Useful | Link |
+|---------|------------------|------|
+| Netflix Movies & TV Shows | Great for categorical cleaning & EDA | [Kaggle Link](https://www.kaggle.com/datasets/shivamb/netflix-shows) |
+| Video Game Sales | Contains price, platform, rating — perfect for IO framing | [Kaggle Link](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings) |
+| Supermarket Sales | Daily transactions across branches | [Kaggle Link](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) |
+| Store Sales Forecasting | Contains date, store, item — useful for panel/data trends | [Kaggle Link](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data) |
+
+---
+
+## 🧠 Economic Simulation & IO
+
+4. **Industrial Organization: Markets and Strategies**
+   - Authors: Belleflamme & Peitz
+   - Use: Reference for demand functions, Cournot/Bertrand structure
+   - Note: Conceptual overlap with lecture notes; helpful for mechanism modeling
+
+5. **Python IO Blog Posts (Medium)**
+   - Source: [Towards Data Science Economics](https://towardsdatascience.com/tagged/economics)
+   - Use: Occasional inspiration for Bertrand sim, Hotelling, auctions
+   - Caution: User-generated — verify logic
+
+6. **MIT IO Course Notes (Optional)**
+   - URL: https://ocw.mit.edu/
+   - Use: Find problem sets, demand model examples, structural modeling outlines
+
+---
+
+## 📌 Summary: What to Focus on Next
+
+| Task | Goal |
+|------|------|
+| 📁 Create GitHub project structure | Week1 folder: simulation + EDA project |
+| 🧪 Simulate demand/cost data | Generate CSV with noise, plot D/C curves |
+| 📊 Run EDA on Kaggle dataset | Netflix/Game sales → summary stats + plots |
+| 📝 Document everything | Clear `README.md`, charts, and commit logs |
+
+---
+
+## 📎 License & Usage Notes
+
+- All content links are public or cited for reference only
+- Books are listed for citation purposes; no PDF or text included
+- Use APA or BibTeX to cite in research
+
+
